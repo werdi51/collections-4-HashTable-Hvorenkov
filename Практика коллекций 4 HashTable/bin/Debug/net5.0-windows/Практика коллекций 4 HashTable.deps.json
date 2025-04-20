@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Практика коллекций 4 HashTable/1.0.0": {
+        "runtime": {
+          "Практика коллекций 4 HashTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Практика коллекций 4 HashTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

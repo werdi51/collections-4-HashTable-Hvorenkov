@@ -1,0 +1,16 @@
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\bin\Debug\net9.0-windows\Практика коллекций 4 HashTable.exe
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\bin\Debug\net9.0-windows\Практика коллекций 4 HashTable.deps.json
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\bin\Debug\net9.0-windows\Практика коллекций 4 HashTable.runtimeconfig.json
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\bin\Debug\net9.0-windows\Практика коллекций 4 HashTable.dll
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\bin\Debug\net9.0-windows\Практика коллекций 4 HashTable.pdb
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика_коллекций_4_HashTable.Form1.resources
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.AssemblyInfo.cs
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.dll
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\refint\Практика коллекций 4 HashTable.dll
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.pdb
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\Практика коллекций 4 HashTable.genruntimeconfig.cache
+C:\Users\anton\Desktop\Практика коллекций 4 HashTable\obj\Debug\net9.0-windows\ref\Практика коллекций 4 HashTable.dll
